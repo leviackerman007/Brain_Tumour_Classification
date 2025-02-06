@@ -37,12 +37,11 @@ A total of **4 models** were trained and evaluated:
 ---
 
 ## 🖼️ Images of Cancer Types
-Below image is representing the four types of cancer:
+Below is an image representing the four types of cancer:
 
-1. **Image of Cancer Type 1** ![Cancer Type 1](path/to/cancer_type_1_image)
-2. **Image of Cancer Type 2** ![Cancer Type 2](path/to/cancer_type_2_image)
-3. **Image of Cancer Type 3** ![Cancer Type 3](path/to/cancer_type_3_image)
-4. **Image of Cancer Type 4** ![Cancer Type 4](path/to/cancer_type_4_image)
+<p align="center">
+  <img src="images/cancer_type.png" width="800" alt="Combined Cancer Types Image">
+</p>
 
 ---
 
