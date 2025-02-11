@@ -97,8 +97,6 @@ holoviews @ file:///croot/holoviews_1720533861358/work
 html5lib==1.1
 httpcore @ file:///croot/httpcore_1706728464539/work
 httpx @ file:///croot/httpx_1723474802858/work
-huggingface==0.0.1
-huggingface-hub==0.26.2
 hvplot @ file:///croot/hvplot_1727775570677/work
 hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
 idna @ file:///croot/idna_1714398848350/work
@@ -355,7 +353,6 @@ three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
 tifffile @ file:///work/perseverance-python-buildout/croot/tifffile_1698866341575/work
 tinycss2 @ file:///work/perseverance-python-buildout/croot/tinycss2_1698875051986/work
 tldextract @ file:///croot/tldextract_1723064386918/work
-tokenizers==0.20.3
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 tomli @ file:///work/perseverance-python-buildout/croot/tomli_1698805555176/work
 tomlkit @ file:///work/perseverance-python-buildout/croot/tomlkit_1698847005123/work
@@ -363,7 +360,6 @@ toolz @ file:///work/perseverance-python-buildout/croot/toolz_1698846367152/work
 tornado @ file:///croot/tornado_1718740109488/work
 tqdm @ file:///croot/tqdm_1724853939799/work
 traitlets @ file:///croot/traitlets_1718227057033/work
-transformers==4.46.2
 Twisted @ file:///croot/twisted_1708702809815/work
 types-pytz==2024.2.0.20241221
 typing_extensions @ file:///croot/typing_extensions_1715268824938/work
